@@ -1,3 +1,3 @@
 forge "http://forge.puppetlabs.com"
 
-mod "puppetlabs/ntp", "3.2.0"
+mod "puppetlabs/stdlib", "3.2.0"
