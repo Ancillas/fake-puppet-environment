@@ -1,3 +1,5 @@
 forge "http://forge.puppetlabs.com"
 
-mod "puppetlabs/stdlib", "4.0.2"
+mod "puppetlabs/stdlib", 
+  :git => "https://github.com/puppetlabs/puppetlabs-stdlib",
+  :ref => '4.0.2'
